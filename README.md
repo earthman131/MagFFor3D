@@ -1,6 +1,8 @@
 # MagFFor3D
 
-A wavenumber-domain approach for 3-D forward modeling of magneitc anomalies and gradients
+A wavenumber-domain approach for 3-D forward modeling of magneitc anomalies and gradients.
+
+Developed by Lianghui Guo and Yatong Cui.
 
 # Prerequisites
 
@@ -20,7 +22,7 @@ Tontini F C, Cocchi L, and Carmisciano C. Rapid 3-D forward model of potential f
 
 # License
 
-GMCurvature is an open source project under the GNU General Public License v3.0. It is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+MagFFor3D is an open source project under the GNU General Public License v3.0. It is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 # All rights reserved：
 
