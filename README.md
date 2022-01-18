@@ -4,13 +4,17 @@ A wavenumber-domain approach for 3-D forward modeling of magneitc anomalies and 
 
 Developed by Lianghui Guo and Yatong Cui.
 
+# Principles
+
+MagFFor3D is Matlab code for magnetic wavenumber-domain forward modeling of a 3D mesh model. It is usually used to subdivide the subsurface into many cells of the same size and regular arrangement but with varied magnetic.MagFFor3D are suitable for fast forward modeling of large-scale models and can directly calculate the anomalies of the observational surface. 
+
 # Prerequisites
 
 The code being implemented in MATLAB, it requires the MATLAB software, which is licensed under the MathWorks sofware company. MATLAB can be downloaded at the following link https://www.mathworks.com/downloads/, and more information can be found about the license fee on the website.
 
 # Usage
 
-To launch the program, it just requires to dowload ‘Matlab_Code’ from my repositories and execute the script GMCurvature.m on MATLAB. 
+To launch the program, it just requires to dowload ‘Matlab_Code’ from my repositories and execute the script main_magnetic3d_forward.m on MATLAB. 
 
 # Email:
 
